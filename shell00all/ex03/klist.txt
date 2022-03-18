@@ -1,0 +1,5 @@
+Credentials cache: API:E8804655-31BB-4B88-A87A-3B0753C6AC5E
+        Principal: fguy@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul 13 18:30:30 2021  Jul 14 04:30:30 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
